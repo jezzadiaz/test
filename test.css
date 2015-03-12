@@ -1,4 +1,11 @@
 body{
 background-color: blue;
-color: yellow;
+color: red;
+font-family: "Comic Sans MS",cursive,sans-serif;
 }
+
+
+h1{
+	color:black;
+}
+
